@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
 	<meta charset="URF-8">
@@ -7,6 +8,8 @@
 	<title>Document</title>
 </head>
 <body> 
-	<h1>Hello, its me, Ma.... Matvei!</h1>
+	<h2>Hello, its me, Ma.... Matvei!</h2>
+	<p> I am QA </p>
+	<img src="sertificate.jpg" width="104" height="142">
 </body>
 </html>

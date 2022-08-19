@@ -38,3 +38,7 @@ a:hover {
 	color: #1A6DBB;
 	transition: 0.3s;
 }
+
+table tr td {
+	font-size: 18px;
+	}

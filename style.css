@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
+	font-size: 22px;
 	color: #333;
 }
 
@@ -16,7 +16,7 @@ span{
 }
 
 .intro span.highlight-here {
-	background-color: #E77471;
+	background-color: #FF5834;
 	color: white;
 	transition: 0.3s;
 }

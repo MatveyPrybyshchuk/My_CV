@@ -10,10 +10,6 @@ span{
 	transition: 0.3s;
 }
 
-table {
-	margin: 0;
-	float: right;
-}
 
 table tr td:first-child {
 	padding-right: 5px;

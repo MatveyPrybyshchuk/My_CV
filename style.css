@@ -1,11 +1,11 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 5px;
+	font-size: 22px;
 	color: #333;
 }
 
 span{
-	font-size: 35px;
+	font-size: 22px;
 	color: #000;
 	transition: 0.3s;
 }
@@ -22,7 +22,7 @@ span{
 }
 
 .intro span.highlight-here:hover {
-	background-color: #E41B17;
+	background-color: #C11B17;
 	color: white;
 	transition: 0.3s;
 }

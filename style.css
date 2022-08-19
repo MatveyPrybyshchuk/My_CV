@@ -4,6 +4,29 @@ body {
 	color: #333;
 }
 
+span{
+	font-size: 14px;
+	color: #000;
+	transition: 0.3s;
+}
+
+.intro span.highlight {
+	background-color: powderblue;
+	color: black;
+}
+
+.intro span.highlight-here {
+	background-color: #E77471;
+	color: white;
+	transition: 0.3s;
+}
+
+.intro span.highlight-here:hover {
+	background-color: #E41B17;
+	color: white;
+	transition: 0.3s;
+}
+
 a {
 	text-decoration: none;
 	color: #000;

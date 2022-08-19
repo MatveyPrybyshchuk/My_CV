@@ -16,7 +16,7 @@ span{
 }
 
 .intro span.highlight-here {
-	background-color: #E55451;
+	background-color: #FF8C00;
 	color: white;
 	transition: 0.3s;
 }
@@ -36,5 +36,12 @@ a {
 
 a:hover {
 	color: #1A6DBB;
+	transition: 0.3s;
+}
+
+.table{
+	font-size: 70px;
+	color: #000;
+	text-indent: 50px;
 	transition: 0.3s;
 }

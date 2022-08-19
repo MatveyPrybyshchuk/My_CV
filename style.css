@@ -4,17 +4,6 @@ body {
 	color: #333;
 }
 
-span{
-	font-size: 14px;
-	color: #000;
-	transition: 0.3s;
-}
-
-
-table tr td:first-child {
-	padding-right: 5px;
-}
-
 a {
 	text-decoration: none;
 	color: #000;

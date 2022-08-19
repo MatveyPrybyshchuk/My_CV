@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 22px;
+	font-size: 50px;
 	color: #333;
 }
 
@@ -39,7 +39,7 @@ a:hover {
 	transition: 0.3s;
 }
 
-.table{
+.table { 
 	font-size: 70px;
 	color: #000;
 	text-indent: 50px;

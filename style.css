@@ -1,11 +1,11 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 22px;
+	font-size: 5px;
 	color: #333;
 }
 
 span{
-	font-size: 22px;
+	font-size: 35px;
 	color: #000;
 	transition: 0.3s;
 }
